@@ -51,6 +51,8 @@ function startGame() {
     });
 }
 
+//nknknkjn
+
 
 function processCommand() {
 
